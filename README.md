@@ -13,6 +13,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlayiseko01&layout=compact&theme=dark&hide_border=true&exclude_repo=repo1,repo2)
 
+![Profile Views](https://komarev.com/ghpvc/?username=hlayiseko01&color=grey)
+
 
 
 
