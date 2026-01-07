@@ -11,6 +11,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=hlayiseko01&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlayiseko01&theme=dark&hide_border=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlayiseko01&layout=compact&theme=dark&hide_border=true&exclude_repo=repo1,repo2)
+
 
 
 
