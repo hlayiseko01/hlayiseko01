@@ -7,9 +7,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hlayiseko01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hlayiseko01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlayiseko01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hlayiseko01&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=hlayiseko01&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hlayiseko01&theme=dark&hide_border=true&layout=compact)
 
 
 
