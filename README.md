@@ -1,5 +1,5 @@
 ## Hi, I'm Hlayiseko 👋
-Application Development student focused on building practical backend and mobile applications.  
+Application Developer focused on building practical backend and mobile applications.  
 Interested in solving real-world problems with clean, maintainable code.
 
 
