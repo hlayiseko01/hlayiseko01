@@ -1,6 +1,10 @@
-## Hi, I'm Hlayiseko 👋
-Application Developer focused on building practical backend and mobile applications.  
-Interested in solving real-world problems with clean, maintainable code.
+# Hi there, I'm Bennet Hlayiseko Ramolefo 👋
+
+### Software Developer based in South Africa (Tzaneen)
+
+I am Software Developer and ICT graduate passionate about building robust backend systems and solving local problems through technology. My primary focus is on **Java development**, **Jakarta EE**, and **Spring Boot**.
+
+I am currently furthering my studies in ICT Application Development while building practical solutions for the South African context..
 
 
 
