@@ -1,17 +1,18 @@
-# Hi there, I'm Bennet Hlayiseko Ramolefo 👋
-
-### Software Developer based in South Africa (Tzaneen)
-
-I am Software Developer and ICT graduate passionate about building robust backend systems and solving local problems through technology. My primary focus is on **Java development**, **Jakarta EE**, and **Spring Boot**.
-
-I am currently furthering my studies in ICT Application Development while building practical solutions for the South African context..
-
-### 🛠 Currently Working On
-- [**Kasi Jobs App**](https://github.com/hlayiseko01/KasiJobs) – A web app that connects local job seekers with employers using Java, Spring Boot, and MySQL.
-
+<h1 align="center">Hi there, I'm Bennet Hlayiseko Ramolefo 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-jet-33.vercel.app/api?username=hlayiseko01&show_icons=true&theme=tokyonight&hide=stars,prs,issues&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vcenter=true&width=600&lines=Software+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+Backend+Architectures;Engineering+Community-Driven+Web+Solutions;Based+in+Tzaneen%2C+South+Africa" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/bennet-hlayiseko-ramolefo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Location-Tzaneen%2C%20South%20Africa-38B2AC?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20Java%20%26%20FinTech-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Focus" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-two-jet-33.vercel.app/api?username=hlayiseko01&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=hlayiseko01&theme=tokyonight" alt="GitHub Streak" />
   <br/><br/>
