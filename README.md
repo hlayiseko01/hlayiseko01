@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/Focus-Enterprise%20Java%20%26%20FinTech-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Focus" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-two-jet-33.vercel.app/api?username=hlayiseko01&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
+  
   <img src="https://streak-stats.demolab.com/?user=hlayiseko01&theme=tokyonight" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats-two-jet-33.vercel.app/api/top-langs?username=hlayiseko01&layout=compact&theme=tokyonight" alt="Top Languages" />
