@@ -11,11 +11,12 @@ I am currently furthering my studies in ICT Application Development while buildi
 
 
 <p align="center">
-  <img src="https://github-readme-stats-two-jet-33.vercel.app/api?username=hlayiseko01&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com/?user=hlayiseko01&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-two-jet-33.vercel.app/api?username=hlayiseko01&show_icons=true&theme=tokyonight&hide=stars,prs,issues&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=hlayiseko01&theme=tokyonight" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats-two-jet-33.vercel.app/api/top-langs?username=hlayiseko01&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-![Top Languages](https://github-readme-stats-two-jet-33.vercel.app/api/top-langs?username=hlayiseko01&layout=compact&theme=tokyonight)
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)  
