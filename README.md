@@ -15,7 +15,7 @@
 
 <p align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=hlayiseko01&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hlayiseko01&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats-two-jet-33.vercel.app/api/top-langs?username=hlayiseko01&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
