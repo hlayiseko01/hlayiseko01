@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bennet-hlayiseko-ramolefo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Tzaneen%2C%20South%20Africa-38B2AC?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-Enterprise%20Java%20%26%20FinTech-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Focus" />
 </p>
