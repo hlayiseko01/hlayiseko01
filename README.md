@@ -10,7 +10,7 @@ I am currently furthering my studies in ICT Application Development while buildi
 - [**Kasi Jobs App**](https://github.com/hlayiseko01/KasiJobs) – A web app that connects local job seekers with employers using Java, Spring Boot, and MySQL.
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hlayiseko01&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=hlayiseko01&show_icons=true&theme=tokyonight&cache_seconds=1800](https://streak-stats.demolab.com/?user=hlayiseko01&theme=tokyonight&hide_border=true))
 
 ![Top Languages](https://github-readme-stats-two-jet-33.vercel.app/api/top-langs?username=hlayiseko01&layout=compact&theme=tokyonight)
 
